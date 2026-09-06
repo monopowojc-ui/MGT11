@@ -1,0 +1,6 @@
+﻿站点,相似站点1,相似度1,相似站点2,相似度2,相似站点3,相似度3,相似站点4,相似度4,相似站点5,相似度5,主要城市功能
+East Changji Road,Guangming Road,0.992,Shanghai Automobile City,0.987,Zhaofeng Road,0.986,Anting,0.972,Shanghai Circuit,0.96,total_poi(20)、交通(20)、entropy(0)
+Longcao Road,Pudian Road,0.904,Yindu Road,0.832,Lancun Road,0.817,Jing'an Temple,0.809,North Yanggao Road,0.8,total_poi(53)、交通(42)、餐饮(3)
+Liziyuan,Shuicheng Road,0.929,Guoquan Road,0.88,Qixin Road,0.879,Qibao,0.819,West Youyi Road,0.784,total_poi(27)、交通(26)、休闲娱乐(1)
+Jing'an Temple,Pudian Road,0.955,Changshu Road,0.954,South Huangpi Road,0.95,East Nanjing Road,0.897,Yuqiao,0.88,total_poi(425)、餐饮(174)、交通(100)
+Shanghai Automobile City,Zhaofeng Road,0.997,Anting,0.996,East Changji Road,0.987,Guangming Road,0.975,Malu,0.943,total_poi(41)、交通(31)、餐饮(4)
